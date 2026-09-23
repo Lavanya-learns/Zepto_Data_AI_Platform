@@ -134,7 +134,7 @@ def classify_intent(state: AssistantState):
         "tracking",
         "cancel",
         "gift card",
-        "support"
+        "support hours"
     ]
 
     if any(keyword in query for keyword in policy_keywords):
