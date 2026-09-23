@@ -1,0 +1,3 @@
+Order Cancellation
+
+Free before Packed, typically first 2 min; after Packed cannot cancel via app; Zepto-side failure auto-cancel/full refund/no fee.
